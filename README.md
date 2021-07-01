@@ -1,7 +1,5 @@
 # BusTrack
 Simple application for tracking Bus
 ### what i used to it - 
-+ firebase
-+ Google api
-Firebase for collecting and saving data
-Google api for google's map service connection
++ firebase for collecting and saving data
++ Google api for google's map service connection
