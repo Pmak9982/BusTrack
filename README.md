@@ -1,2 +1,10 @@
-# TaxiApp
-Проект https://youtu.be/brFoS5Z0RUo после 29 видео
+# BusTrack
+
+For making this project i used
+- Flutter
+- Google maps API
+
+YouTube video link - https://youtu.be/-A937MVakBc
+
+Screens: 
+
